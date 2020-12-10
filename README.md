@@ -1,4 +1,5 @@
 # Sean's progress notes
+
 Start by reading the instructions twice.
 Examine the Desktop.png and the demo.mp4
 Note - mobile design has been accounted for, approach with mobile first dev/design
@@ -16,7 +17,6 @@ Managed to fetch some data, not all of it was working properly though
 Spent time focusing on building out the Cards at the top of the page as close to the supplied UI as possible, ensureing I was developing mobile first and including approriaye changes via media queries.
 
 Will Include a write up shortly regarding what I would do next while continuing this development process.
-
 
 # Maestro Frontend Take-Home Test
 
