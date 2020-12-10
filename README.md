@@ -1,20 +1,33 @@
 # Sean's progress notes
 
 Start by reading the instructions twice.
+
 Examine the Desktop.png and the demo.mp4
+
 Note - mobile design has been accounted for, approach with mobile first dev/design
+
 Note - It's been too long since I've used GraphQL, utilize RESTful api to fulfil MVP and circle back if there is still time. Styled-components looks easy enough to pick up on the fly, but timebox an attempt to 5 minutes, otherwise move on with colocatted sass files. Recharts is uncharted territory. Utilize a placeholder for now, but circleback to read docs if time permits.
+
 Callouts - attention to detail, responsive design (mobile first), utilize semantic markup appropriately, build from scratch
-Plan of attack:
+
 Run getting started section
+
 Access data first - Holdup... Apollo provider looks just like a context provider? Let's timebox that to 10 minutes to see if I can access the data that way. https://www.apollographql.com/docs/react/get-started/
+
 Couldn't do it, commented out attempt - moving on
+
 Build an App component
+
 https://www.figma.com/file/vaaecwSjHZNIXQmYEVVROs/take-home?node-id=0%3A1
+
 breakpoints at 320, 768, 1024, 1440
+
 fetching data has proved to be more time consuming than I had hoped, the REST link breaks often when clicking into the data. Let's focus on building the front end out instead and utilize some lipsum or hard copy as needed
+
 Managed to fetch some data, not all of it was working properly though
+
 Spent time focusing on building out the Cards at the top of the page as close to the supplied UI as possible, ensureing I was developing mobile first and including approriaye changes via media queries.
+
 
 Will Include a write up shortly regarding what I would do next while continuing this development process.
 
