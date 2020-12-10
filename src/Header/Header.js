@@ -1,4 +1,4 @@
 import React from "react";
 import "./Header.scss";
 
-export const Header = () => <h1>Dashboard</h1>;
+export const Header = () => <h1 className="Header">Dashboard</h1>;

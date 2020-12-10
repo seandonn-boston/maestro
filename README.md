@@ -11,6 +11,7 @@ Couldn't do it, commented out attempt - moving on
 Build an App component
 https://www.figma.com/file/vaaecwSjHZNIXQmYEVVROs/take-home?node-id=0%3A1
 breakpoints at 320, 768, 1024, 1440
+fetching data has proved to be more time consuming than I had hoped, the REST link breaks often when clicking into the data. Let's focus on building the front end out instead and utilize some lipsum or hard copy as needed
 
 
 # Maestro Frontend Take-Home Test
