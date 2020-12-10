@@ -12,6 +12,10 @@ Build an App component
 https://www.figma.com/file/vaaecwSjHZNIXQmYEVVROs/take-home?node-id=0%3A1
 breakpoints at 320, 768, 1024, 1440
 fetching data has proved to be more time consuming than I had hoped, the REST link breaks often when clicking into the data. Let's focus on building the front end out instead and utilize some lipsum or hard copy as needed
+Managed to fetch some data, not all of it was working properly though
+Spent time focusing on building out the Cards at the top of the page as close to the supplied UI as possible, ensureing I was developing mobile first and including approriaye changes via media queries.
+
+Will Include a write up shortly regarding what I would do next while continuing this development process.
 
 
 # Maestro Frontend Take-Home Test
